@@ -41,8 +41,6 @@ The analysis of the election show that:
 	- Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary
-The script used 
+The script used can be used in many differen occasions. When modifying the code, the script can be used to calculate the rank of the candidates from first to last. Another occasion is by calculating how much difference the winner had compared to the other candidates. 
 
-
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
